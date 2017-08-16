@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:layout_gravity="start|center_vertical"
+        android:textSize="20sp"
+        android:layout_marginStart="10dip"
+        android:layout_marginLeft="10dip"/>
+
+    <Button
+        android:id="@+id/table_view_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:text="View" />
+
+    <Button
+        android:id="@+id/table_crypt_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:text="Lock" />
+
+</LinearLayout>

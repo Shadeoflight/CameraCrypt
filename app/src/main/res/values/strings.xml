@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraCrypt</string>
+
+    <string name="desc">capture image place holder</string>
+
+    <string name="captureButton">C\nA\nP\nT\nU\nR\nE</string>
+
+    <string name="result_alert_burned_toast">Image name already exists!</string>
+
+    <string name="result_alert_toast">Image saved!</string>
+
+</resources>
