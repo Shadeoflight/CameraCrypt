@@ -7,7 +7,7 @@ Requires Android API 19 (Android 4.4 - KitKat) or above.
 
 ## How to use
 1. Download the repo.
-2. Build and run in Android Studio. Be sure to run on a device with a front and back camera.
+2. Build and run in Android Studio. Be sure to run on a device with a front camera.
 
 ## Libraries used
 None
